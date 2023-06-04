@@ -26,24 +26,24 @@
 					"UI_TOKEN_OUTFIT_HERO_THE_DRAGON_NAME": "The Dragon"
 				},
 				"french": {
-					"UI_TOKEN_OUTFIT_HERO_THE_DRAGON_DESC": "Un ensemble stylé composé d'un élégant pantalon gris, d'une veste en cuir noir résistante et durable et de bottes de travail. Une paire de gants en cuir complète le look, avec l'assurance que toute affaire difficile peut être traitée sans problème.",
-					"UI_TOKEN_OUTFIT_HERO_THE_DRAGON_NAME": "Les affaires difficiles"
+					"UI_TOKEN_OUTFIT_HERO_THE_DRAGON_DESC": "Personne ne remettra en question votre autorité dans les rues avec ce costume de dragon légendaire.",
+					"UI_TOKEN_OUTFIT_HERO_THE_DRAGON_NAME": "Le Dragon"
 				},
 				"italian": {
-					"UI_TOKEN_OUTFIT_HERO_THE_DRAGON_DESC": "Un insieme di stile con eleganti pantaloni grigi, una giacca di pelle nera resistente e durevole e stivali da lavoro. Un paio di guanti in pelle completano il look, con la certezza di poter affrontare senza problemi qualsiasi lavoro duro.",
-					"UI_TOKEN_OUTFIT_HERO_THE_DRAGON_NAME": "Affari difficili"
+					"UI_TOKEN_OUTFIT_HERO_THE_DRAGON_DESC": "Nessuno metterà in dubbio la vostra autorità per le strade con questo leggendario costume da drago.",
+					"UI_TOKEN_OUTFIT_HERO_THE_DRAGON_NAME": "Il Drago"
 				},
 				"german": {
-					"UI_TOKEN_OUTFIT_HERO_THE_DRAGON_DESC": "Ein stilvolles Ensemble aus einer eleganten grauen Anzughose, einer robusten und langlebigen schwarzen Lederjacke und Arbeitsstiefeln. Ein Paar Lederhandschuhe vervollständigen den Look, mit der Gewissheit, dass jedes raue Geschäft ohne Probleme erledigt werden kann.",
-					"UI_TOKEN_OUTFIT_HERO_THE_DRAGON_NAME": "Raues Geschäft"
+					"UI_TOKEN_OUTFIT_HERO_THE_DRAGON_DESC": "In diesem legendären Drachenkostüm wird niemand Ihre Autorität auf den Straßen in Frage stellen.",
+					"UI_TOKEN_OUTFIT_HERO_THE_DRAGON_NAME": "Der Drache"
 				},
 				"spanish": {
-					"UI_TOKEN_OUTFIT_HERO_THE_DRAGON_DESC": "Un elegante conjunto de pantalones de vestir grises, una resistente chaqueta de cuero negro y botas de trabajo. Un par de guantes de cuero rematan el look, con la seguridad de que cualquier asunto escabroso puede resolverse sin problemas.",
-					"UI_TOKEN_OUTFIT_HERO_THE_DRAGON_NAME": "Negocios Difíciles"
+					"UI_TOKEN_OUTFIT_HERO_THE_DRAGON_DESC": "Nadie cuestionará tu autoridad en las calles con este legendario traje de dragón.",
+					"UI_TOKEN_OUTFIT_HERO_THE_DRAGON_NAME": "El Dragón"
 				},
 				"russian": {
-					"UI_TOKEN_OUTFIT_HERO_THE_DRAGON_DESC": "Стильный ансамбль из нарядных серых брюк, прочной и долговечной черной кожаной куртки и рабочих ботинок. Пара кожаных перчаток завершает образ, давая уверенность в том, что с любым грубым делом можно справиться без проблем.",
-					"UI_TOKEN_OUTFIT_HERO_THE_DRAGON_NAME": "Грубый бизнес"
+					"UI_TOKEN_OUTFIT_HERO_THE_DRAGON_DESC": "Никто не усомнится в вашем авторитете на улицах в этом легендарном костюме дракона.",
+					"UI_TOKEN_OUTFIT_HERO_THE_DRAGON_NAME": "Дракон"
 				}
 			}
 		},
@@ -60,24 +60,24 @@
 						"4086875141": "The Dragon"
 					},
 					"french": {
-						"2741280242": "Un ensemble stylé composé d'un élégant pantalon gris, d'une veste en cuir noir résistante et durable et de bottes de travail. Une paire de gants en cuir complète le look, avec l'assurance que toute affaire difficile peut être traitée sans problème.",
-						"4086875141": "Les affaires difficiles"
+						"2741280242": "Personne ne remettra en question votre autorité dans les rues avec ce costume de dragon légendaire.",
+						"4086875141": "Le Dragon"
 					},
 					"italian": {
-						"2741280242": "Un insieme di stile con eleganti pantaloni grigi, una giacca di pelle nera resistente e durevole e stivali da lavoro. Un paio di guanti in pelle completano il look, con la certezza di poter affrontare senza problemi qualsiasi lavoro duro.",
-						"4086875141": "Affari difficili"
+						"2741280242": "Nessuno metterà in dubbio la vostra autorità per le strade con questo leggendario costume da drago.",
+						"4086875141": "Il Drago"
 					},
 					"german": {
-						"2741280242": "Ein stilvolles Ensemble aus einer eleganten grauen Anzughose, einer robusten und langlebigen schwarzen Lederjacke und Arbeitsstiefeln. Ein Paar Lederhandschuhe vervollständigen den Look, mit der Gewissheit, dass jedes raue Geschäft ohne Probleme erledigt werden kann.",
-						"4086875141": "Raues Geschäft"
+						"2741280242": "In diesem legendären Drachenkostüm wird niemand Ihre Autorität auf den Straßen in Frage stellen.",
+						"4086875141": "Der Drache"
 					},
 					"spanish": {
-						"2741280242": "Un elegante conjunto de pantalones de vestir grises, una resistente chaqueta de cuero negro y botas de trabajo. Un par de guantes de cuero rematan el look, con la seguridad de que cualquier asunto escabroso puede resolverse sin problemas.",
-						"4086875141": "Negocios Difíciles"
+						"2741280242": "Nadie cuestionará tu autoridad en las calles con este legendario traje de dragón.",
+						"4086875141": "El Dragón"
 					},
 					"russian": {
-						"2741280242": "Стильный ансамбль из нарядных серых брюк, прочной и долговечной черной кожаной куртки и рабочих ботинок. Пара кожаных перчаток завершает образ, давая уверенность в том, что с любым грубым делом можно справиться без проблем.",
-						"4086875141": "Грубый бизнес"
+						"2741280242": "Никто не усомнится в вашем авторитете на улицах в этом легендарном костюме дракона.",
+						"4086875141": "Дракон"
 					}
 				}
 			}
@@ -95,24 +95,24 @@
 						"3648979387": "The Dragon"
 					},
 					"french": {
-						"3346035357": "Un ensemble stylé composé d'un élégant pantalon gris, d'une veste en cuir noir résistante et durable et de bottes de travail. Une paire de gants en cuir complète le look, avec l'assurance que toute affaire difficile peut être traitée sans problème.",
-						"3648979387": "Les affaires difficiles"
+						"3346035357": "Personne ne remettra en question votre autorité dans les rues avec ce costume de dragon légendaire.",
+						"3648979387": "Le Dragon"
 					},
 					"italian": {
-						"3346035357": "Un insieme di stile con eleganti pantaloni grigi, una giacca di pelle nera resistente e durevole e stivali da lavoro. Un paio di guanti in pelle completano il look, con la certezza di poter affrontare senza problemi qualsiasi lavoro duro.",
-						"3648979387": "Affari difficili"
+						"3346035357": "Nessuno metterà in dubbio la vostra autorità per le strade con questo leggendario costume da drago.",
+						"3648979387": "Il Drago"
 					},
 					"german": {
-						"3346035357": "Ein stilvolles Ensemble aus einer eleganten grauen Anzughose, einer robusten und langlebigen schwarzen Lederjacke und Arbeitsstiefeln. Ein Paar Lederhandschuhe vervollständigen den Look, mit der Gewissheit, dass jedes raue Geschäft ohne Probleme erledigt werden kann.",
-						"3648979387": "Raues Geschäft"
+						"3346035357": "In diesem legendären Drachenkostüm wird niemand Ihre Autorität auf den Straßen in Frage stellen.",
+						"3648979387": "Der Drache"
 					},
 					"spanish": {
-						"3346035357": "Un elegante conjunto de pantalones de vestir grises, una resistente chaqueta de cuero negro y botas de trabajo. Un par de guantes de cuero rematan el look, con la seguridad de que cualquier asunto escabroso puede resolverse sin problemas.",
-						"3648979387": "Negocios Difíciles"
+						"3346035357": "Nadie cuestionará tu autoridad en las calles con este legendario traje de dragón.",
+						"3648979387": "El Dragón"
 					},
 					"russian": {
-						"3346035357": "Стильный ансамбль из нарядных серых брюк, прочной и долговечной черной кожаной куртки и рабочих ботинок. Пара кожаных перчаток завершает образ, давая уверенность в том, что с любым грубым делом можно справиться без проблем.",
-						"3648979387": "Грубый бизнес"
+						"3346035357": "Никто не усомнится в вашем авторитете на улицах в этом легендарном костюме дракона.",
+						"3648979387": "Дракон"
 					}
 				}
 			}
@@ -130,24 +130,24 @@
 						"3175901226": "No one will question your authority on the streets in this legendary dragon's suit."
 					},
 					"french": {
-						"1774659088": "Les affaires difficiles",
-						"3175901226": "Un ensemble stylé composé d'un élégant pantalon gris, d'une veste en cuir noir résistante et durable et de bottes de travail. Une paire de gants en cuir complète le look, avec l'assurance que toute affaire difficile peut être traitée sans problème."
+						"1774659088": "Le Dragon",
+						"3175901226": "Personne ne remettra en question votre autorité dans les rues avec ce costume de dragon légendaire."
 					},
 					"italian": {
-						"1774659088": "Affari difficili",
-						"3175901226": "Un insieme di stile con eleganti pantaloni grigi, una giacca di pelle nera resistente e durevole e stivali da lavoro. Un paio di guanti in pelle completano il look, con la certezza di poter affrontare senza problemi qualsiasi lavoro duro."
+						"1774659088": "Il Drago",
+						"3175901226": "Nessuno metterà in dubbio la vostra autorità per le strade con questo leggendario costume da drago."
 					},
 					"german": {
-						"1774659088": "Raues Geschäft",
-						"3175901226": "Ein stilvolles Ensemble aus einer eleganten grauen Anzughose, einer robusten und langlebigen schwarzen Lederjacke und Arbeitsstiefeln. Ein Paar Lederhandschuhe vervollständigen den Look, mit der Gewissheit, dass jedes raue Geschäft ohne Probleme erledigt werden kann."
+						"1774659088": "Der Drache",
+						"3175901226": "In diesem legendären Drachenkostüm wird niemand Ihre Autorität auf den Straßen in Frage stellen."
 					},
 					"spanish": {
-						"1774659088": "Negocios Difíciles",
-						"3175901226": "Un elegante conjunto de pantalones de vestir grises, una resistente chaqueta de cuero negro y botas de trabajo. Un par de guantes de cuero rematan el look, con la seguridad de que cualquier asunto escabroso puede resolverse sin problemas."
+						"1774659088": "El Dragón",
+						"3175901226": "Nadie cuestionará tu autoridad en las calles con este legendario traje de dragón."
 					},
 					"russian": {
-						"1774659088": "Грубый бизнес",
-						"3175901226": "Стильный ансамбль из нарядных серых брюк, прочной и долговечной черной кожаной куртки и рабочих ботинок. Пара кожаных перчаток завершает образ, давая уверенность в том, что с любым грубым делом можно справиться без проблем."
+						"1774659088": "Дракон",
+						"3175901226": "Никто не усомнится в вашем авторитете на улицах в этом легендарном костюме дракона."
 					}
 				}
 			}
@@ -165,24 +165,24 @@
 						"3533044117": "No one will question your authority on the streets in this legendary dragon's suit."
 					},
 					"french": {
-						"2978719530": "Les affaires difficiles",
-						"3533044117": "Un ensemble stylé composé d'un élégant pantalon gris, d'une veste en cuir noir résistante et durable et de bottes de travail. Une paire de gants en cuir complète le look, avec l'assurance que toute affaire difficile peut être traitée sans problème."
+						"2978719530": "Le Dragon",
+						"3533044117": "Personne ne remettra en question votre autorité dans les rues avec ce costume de dragon légendaire."
 					},
 					"italian": {
-						"2978719530": "Affari difficili",
-						"3533044117": "Un insieme di stile con eleganti pantaloni grigi, una giacca di pelle nera resistente e durevole e stivali da lavoro. Un paio di guanti in pelle completano il look, con la certezza di poter affrontare senza problemi qualsiasi lavoro duro."
+						"2978719530": "Il Drago",
+						"3533044117": "Nessuno metterà in dubbio la vostra autorità per le strade con questo leggendario costume da drago."
 					},
 					"german": {
-						"2978719530": "Raues Geschäft",
-						"3533044117": "Ein stilvolles Ensemble aus einer eleganten grauen Anzughose, einer robusten und langlebigen schwarzen Lederjacke und Arbeitsstiefeln. Ein Paar Lederhandschuhe vervollständigen den Look, mit der Gewissheit, dass jedes raue Geschäft ohne Probleme erledigt werden kann."
+						"2978719530": "Der Drache",
+						"3533044117": "In diesem legendären Drachenkostüm wird niemand Ihre Autorität auf den Straßen in Frage stellen."
 					},
 					"spanish": {
-						"2978719530": "Negocios Difíciles",
-						"3533044117": "Un elegante conjunto de pantalones de vestir grises, una resistente chaqueta de cuero negro y botas de trabajo. Un par de guantes de cuero rematan el look, con la seguridad de que cualquier asunto escabroso puede resolverse sin problemas."
+						"2978719530": "El Dragón",
+						"3533044117": "Nadie cuestionará tu autoridad en las calles con este legendario traje de dragón."
 					},
 					"russian": {
-						"2978719530": "Грубый бизнес",
-						"3533044117": "Стильный ансамбль из нарядных серых брюк, прочной и долговечной черной кожаной куртки и рабочих ботинок. Пара кожаных перчаток завершает образ, давая уверенность в том, что с любым грубым делом можно справиться без проблем."
+						"2978719530": "Дракон",
+						"3533044117": "Никто не усомнится в вашем авторитете на улицах в этом легендарном костюме дракона."
 					}
 				}
 			}
@@ -200,24 +200,24 @@
 						"2101382595": "No one will question your authority on the streets in this legendary dragon's suit."
 					},
 					"french": {
-						"134957393": "Les affaires difficiles",
-						"2101382595": "Un ensemble stylé composé d'un élégant pantalon gris, d'une veste en cuir noir résistante et durable et de bottes de travail. Une paire de gants en cuir complète le look, avec l'assurance que toute affaire difficile peut être traitée sans problème."
+						"134957393": "Le Dragon",
+						"2101382595": "Personne ne remettra en question votre autorité dans les rues avec ce costume de dragon légendaire."
 					},
 					"italian": {
-						"134957393": "Affari difficili",
-						"2101382595": "Un insieme di stile con eleganti pantaloni grigi, una giacca di pelle nera resistente e durevole e stivali da lavoro. Un paio di guanti in pelle completano il look, con la certezza di poter affrontare senza problemi qualsiasi lavoro duro."
+						"134957393": "Il Drago",
+						"2101382595": "Nessuno metterà in dubbio la vostra autorità per le strade con questo leggendario costume da drago."
 					},
 					"german": {
-						"134957393": "Raues Geschäft",
-						"2101382595": "Ein stilvolles Ensemble aus einer eleganten grauen Anzughose, einer robusten und langlebigen schwarzen Lederjacke und Arbeitsstiefeln. Ein Paar Lederhandschuhe vervollständigen den Look, mit der Gewissheit, dass jedes raue Geschäft ohne Probleme erledigt werden kann."
+						"134957393": "Der Drache",
+						"2101382595": "In diesem legendären Drachenkostüm wird niemand Ihre Autorität auf den Straßen in Frage stellen."
 					},
 					"spanish": {
-						"134957393": "Negocios Difíciles",
-						"2101382595": "Un elegante conjunto de pantalones de vestir grises, una resistente chaqueta de cuero negro y botas de trabajo. Un par de guantes de cuero rematan el look, con la seguridad de que cualquier asunto escabroso puede resolverse sin problemas."
+						"134957393": "El Dragón",
+						"2101382595": "Nadie cuestionará tu autoridad en las calles con este legendario traje de dragón."
 					},
 					"russian": {
-						"134957393": "Грубый бизнес",
-						"2101382595": "Стильный ансамбль из нарядных серых брюк, прочной и долговечной черной кожаной куртки и рабочих ботинок. Пара кожаных перчаток завершает образ, давая уверенность в том, что с любым грубым делом можно справиться без проблем."
+						"134957393": "Дракон",
+						"2101382595": "Никто не усомнится в вашем авторитете на улицах в этом легендарном костюме дракона."
 					}
 				}
 			}
@@ -235,24 +235,24 @@
 						"2814457931": "The Dragon"
 					},
 					"french": {
-						"2627471231": "Un ensemble stylé composé d'un élégant pantalon gris, d'une veste en cuir noir résistante et durable et de bottes de travail. Une paire de gants en cuir complète le look, avec l'assurance que toute affaire difficile peut être traitée sans problème.",
-						"2814457931": "Les affaires difficiles"
+						"2627471231": "Personne ne remettra en question votre autorité dans les rues avec ce costume de dragon légendaire.",
+						"2814457931": "Le Dragon"
 					},
 					"italian": {
-						"2627471231": "Un insieme di stile con eleganti pantaloni grigi, una giacca di pelle nera resistente e durevole e stivali da lavoro. Un paio di guanti in pelle completano il look, con la certezza di poter affrontare senza problemi qualsiasi lavoro duro.",
-						"2814457931": "Affari difficili"
+						"2627471231": "Nessuno metterà in dubbio la vostra autorità per le strade con questo leggendario costume da drago.",
+						"2814457931": "Il Drago"
 					},
 					"german": {
-						"2627471231": "Ein stilvolles Ensemble aus einer eleganten grauen Anzughose, einer robusten und langlebigen schwarzen Lederjacke und Arbeitsstiefeln. Ein Paar Lederhandschuhe vervollständigen den Look, mit der Gewissheit, dass jedes raue Geschäft ohne Probleme erledigt werden kann.",
-						"2814457931": "Raues Geschäft"
+						"2627471231": "In diesem legendären Drachenkostüm wird niemand Ihre Autorität auf den Straßen in Frage stellen.",
+						"2814457931": "Der Drache"
 					},
 					"spanish": {
-						"2627471231": "Un elegante conjunto de pantalones de vestir grises, una resistente chaqueta de cuero negro y botas de trabajo. Un par de guantes de cuero rematan el look, con la seguridad de que cualquier asunto escabroso puede resolverse sin problemas.",
-						"2814457931": "Negocios Difíciles"
+						"2627471231": "Nadie cuestionará tu autoridad en las calles con este legendario traje de dragón.",
+						"2814457931": "El Dragón"
 					},
 					"russian": {
-						"2627471231": "Стильный ансамбль из нарядных серых брюк, прочной и долговечной черной кожаной куртки и рабочих ботинок. Пара кожаных перчаток завершает образ, давая уверенность в том, что с любым грубым делом можно справиться без проблем.",
-						"2814457931": "Грубый бизнес"
+						"2627471231": "Никто не усомнится в вашем авторитете на улицах в этом легендарном костюме дракона.",
+						"2814457931": "Дракон"
 					}
 				}
 			}
@@ -270,24 +270,24 @@
 						"3635577953": "No one will question your authority on the streets in this legendary dragon's suit."
 					},
 					"french": {
-						"2052724919": "Les affaires difficiles",
-						"3635577953": "Un ensemble stylé composé d'un élégant pantalon gris, d'une veste en cuir noir résistante et durable et de bottes de travail. Une paire de gants en cuir complète le look, avec l'assurance que toute affaire difficile peut être traitée sans problème."
+						"2052724919": "Le Dragon",
+						"3635577953": "Personne ne remettra en question votre autorité dans les rues avec ce costume de dragon légendaire."
 					},
 					"italian": {
-						"2052724919": "Affari difficili",
-						"3635577953": "Un insieme di stile con eleganti pantaloni grigi, una giacca di pelle nera resistente e durevole e stivali da lavoro. Un paio di guanti in pelle completano il look, con la certezza di poter affrontare senza problemi qualsiasi lavoro duro."
+						"2052724919": "Il Drago",
+						"3635577953": "Nessuno metterà in dubbio la vostra autorità per le strade con questo leggendario costume da drago."
 					},
 					"german": {
-						"2052724919": "Raues Geschäft",
-						"3635577953": "Ein stilvolles Ensemble aus einer eleganten grauen Anzughose, einer robusten und langlebigen schwarzen Lederjacke und Arbeitsstiefeln. Ein Paar Lederhandschuhe vervollständigen den Look, mit der Gewissheit, dass jedes raue Geschäft ohne Probleme erledigt werden kann."
+						"2052724919": "Der Drache",
+						"3635577953": "In diesem legendären Drachenkostüm wird niemand Ihre Autorität auf den Straßen in Frage stellen."
 					},
 					"spanish": {
-						"2052724919": "Negocios Difíciles",
-						"3635577953": "Un elegante conjunto de pantalones de vestir grises, una resistente chaqueta de cuero negro y botas de trabajo. Un par de guantes de cuero rematan el look, con la seguridad de que cualquier asunto escabroso puede resolverse sin problemas."
+						"2052724919": "El Dragón",
+						"3635577953": "Nadie cuestionará tu autoridad en las calles con este legendario traje de dragón."
 					},
 					"russian": {
-						"2052724919": "Грубый бизнес",
-						"3635577953": "Стильный ансамбль из нарядных серых брюк, прочной и долговечной черной кожаной куртки и рабочих ботинок. Пара кожаных перчаток завершает образ, давая уверенность в том, что с любым грубым делом можно справиться без проблем."
+						"2052724919": "Дракон",
+						"3635577953": "Никто не усомнится в вашем авторитете на улицах в этом легендарном костюме дракона."
 					}
 				}
 			}
@@ -305,24 +305,24 @@
 						"2762453674": "The Dragon"
 					},
 					"french": {
-						"972885031": "Un ensemble stylé composé d'un élégant pantalon gris, d'une veste en cuir noir résistante et durable et de bottes de travail. Une paire de gants en cuir complète le look, avec l'assurance que toute affaire difficile peut être traitée sans problème.",
-						"2762453674": "Les affaires difficiles"
+						"972885031": "Personne ne remettra en question votre autorité dans les rues avec ce costume de dragon légendaire.",
+						"2762453674": "Le Dragon"
 					},
 					"italian": {
-						"972885031": "Un insieme di stile con eleganti pantaloni grigi, una giacca di pelle nera resistente e durevole e stivali da lavoro. Un paio di guanti in pelle completano il look, con la certezza di poter affrontare senza problemi qualsiasi lavoro duro.",
-						"2762453674": "Affari difficili"
+						"972885031": "Nessuno metterà in dubbio la vostra autorità per le strade con questo leggendario costume da drago.",
+						"2762453674": "Il Drago"
 					},
 					"german": {
-						"972885031": "Ein stilvolles Ensemble aus einer eleganten grauen Anzughose, einer robusten und langlebigen schwarzen Lederjacke und Arbeitsstiefeln. Ein Paar Lederhandschuhe vervollständigen den Look, mit der Gewissheit, dass jedes raue Geschäft ohne Probleme erledigt werden kann.",
-						"2762453674": "Raues Geschäft"
+						"972885031": "In diesem legendären Drachenkostüm wird niemand Ihre Autorität auf den Straßen in Frage stellen.",
+						"2762453674": "Der Drache"
 					},
 					"spanish": {
-						"972885031": "Un elegante conjunto de pantalones de vestir grises, una resistente chaqueta de cuero negro y botas de trabajo. Un par de guantes de cuero rematan el look, con la seguridad de que cualquier asunto escabroso puede resolverse sin problemas.",
-						"2762453674": "Negocios Difíciles"
+						"972885031": "Nadie cuestionará tu autoridad en las calles con este legendario traje de dragón.",
+						"2762453674": "El Dragón"
 					},
 					"russian": {
-						"972885031": "Стильный ансамбль из нарядных серых брюк, прочной и долговечной черной кожаной куртки и рабочих ботинок. Пара кожаных перчаток завершает образ, давая уверенность в том, что с любым грубым делом можно справиться без проблем.",
-						"2762453674": "Грубый бизнес"
+						"972885031": "Никто не усомнится в вашем авторитете на улицах в этом легендарном костюме дракона.",
+						"2762453674": "Дракон"
 					}
 				}
 			}
@@ -340,24 +340,24 @@
 						"4241939803": "No one will question your authority on the streets in this legendary dragon's suit."
 					},
 					"french": {
-						"1490534793": "Les affaires difficiles",
-						"4241939803": "Un ensemble stylé composé d'un élégant pantalon gris, d'une veste en cuir noir résistante et durable et de bottes de travail. Une paire de gants en cuir complète le look, avec l'assurance que toute affaire difficile peut être traitée sans problème."
+						"1490534793": "Le Dragon",
+						"4241939803": "Personne ne remettra en question votre autorité dans les rues avec ce costume de dragon légendaire."
 					},
 					"italian": {
-						"1490534793": "Affari difficili",
-						"4241939803": "Un insieme di stile con eleganti pantaloni grigi, una giacca di pelle nera resistente e durevole e stivali da lavoro. Un paio di guanti in pelle completano il look, con la certezza di poter affrontare senza problemi qualsiasi lavoro duro."
+						"1490534793": "Il Drago",
+						"4241939803": "Nessuno metterà in dubbio la vostra autorità per le strade con questo leggendario costume da drago."
 					},
 					"german": {
-						"1490534793": "Raues Geschäft",
-						"4241939803": "Ein stilvolles Ensemble aus einer eleganten grauen Anzughose, einer robusten und langlebigen schwarzen Lederjacke und Arbeitsstiefeln. Ein Paar Lederhandschuhe vervollständigen den Look, mit der Gewissheit, dass jedes raue Geschäft ohne Probleme erledigt werden kann."
+						"1490534793": "Der Drache",
+						"4241939803": "In diesem legendären Drachenkostüm wird niemand Ihre Autorität auf den Straßen in Frage stellen."
 					},
 					"spanish": {
-						"1490534793": "Negocios Difíciles",
-						"4241939803": "Un elegante conjunto de pantalones de vestir grises, una resistente chaqueta de cuero negro y botas de trabajo. Un par de guantes de cuero rematan el look, con la seguridad de que cualquier asunto escabroso puede resolverse sin problemas."
+						"1490534793": "El Dragón",
+						"4241939803": "Nadie cuestionará tu autoridad en las calles con este legendario traje de dragón."
 					},
 					"russian": {
-						"1490534793": "Грубый бизнес",
-						"4241939803": "Стильный ансамбль из нарядных серых брюк, прочной и долговечной черной кожаной куртки и рабочих ботинок. Пара кожаных перчаток завершает образ, давая уверенность в том, что с любым грубым делом можно справиться без проблем."
+						"1490534793": "Дракон",
+						"4241939803": "Никто не усомнится в вашем авторитете на улицах в этом легендарном костюме дракона."
 					}
 				}
 			}
@@ -375,24 +375,24 @@
 						"2347383834": "The Dragon"
 					},
 					"french": {
-						"2053833950": "Un ensemble stylé composé d'un élégant pantalon gris, d'une veste en cuir noir résistante et durable et de bottes de travail. Une paire de gants en cuir complète le look, avec l'assurance que toute affaire difficile peut être traitée sans problème.",
-						"2347383834": "Les affaires difficiles"
+						"2053833950": "Personne ne remettra en question votre autorité dans les rues avec ce costume de dragon légendaire.",
+						"2347383834": "Le Dragon"
 					},
 					"italian": {
-						"2053833950": "Un insieme di stile con eleganti pantaloni grigi, una giacca di pelle nera resistente e durevole e stivali da lavoro. Un paio di guanti in pelle completano il look, con la certezza di poter affrontare senza problemi qualsiasi lavoro duro.",
-						"2347383834": "Affari difficili"
+						"2053833950": "Nessuno metterà in dubbio la vostra autorità per le strade con questo leggendario costume da drago.",
+						"2347383834": "Il Drago"
 					},
 					"german": {
-						"2053833950": "Ein stilvolles Ensemble aus einer eleganten grauen Anzughose, einer robusten und langlebigen schwarzen Lederjacke und Arbeitsstiefeln. Ein Paar Lederhandschuhe vervollständigen den Look, mit der Gewissheit, dass jedes raue Geschäft ohne Probleme erledigt werden kann.",
-						"2347383834": "Raues Geschäft"
+						"2053833950": "In diesem legendären Drachenkostüm wird niemand Ihre Autorität auf den Straßen in Frage stellen.",
+						"2347383834": "Der Drache"
 					},
 					"spanish": {
-						"2053833950": "Un elegante conjunto de pantalones de vestir grises, una resistente chaqueta de cuero negro y botas de trabajo. Un par de guantes de cuero rematan el look, con la seguridad de que cualquier asunto escabroso puede resolverse sin problemas.",
-						"2347383834": "Negocios Difíciles"
+						"2053833950": "Nadie cuestionará tu autoridad en las calles con este legendario traje de dragón.",
+						"2347383834": "El Dragón"
 					},
 					"russian": {
-						"2053833950": "Стильный ансамбль из нарядных серых брюк, прочной и долговечной черной кожаной куртки и рабочих ботинок. Пара кожаных перчаток завершает образ, давая уверенность в том, что с любым грубым делом можно справиться без проблем.",
-						"2347383834": "Грубый бизнес"
+						"2053833950": "Никто не усомнится в вашем авторитете на улицах в этом легендарном костюме дракона.",
+						"2347383834": "Дракон"
 					}
 				}
 			}
@@ -410,24 +410,24 @@
 						"678625422": "No one will question your authority on the streets in this legendary dragon's suit."
 					},
 					"french": {
-						"252086724": "Les affaires difficiles",
-						"678625422": "Un ensemble stylé composé d'un élégant pantalon gris, d'une veste en cuir noir résistante et durable et de bottes de travail. Une paire de gants en cuir complète le look, avec l'assurance que toute affaire difficile peut être traitée sans problème."
+						"252086724": "Le Dragon",
+						"678625422": "Personne ne remettra en question votre autorité dans les rues avec ce costume de dragon légendaire."
 					},
 					"italian": {
-						"252086724": "Affari difficili",
-						"678625422": "Un insieme di stile con eleganti pantaloni grigi, una giacca di pelle nera resistente e durevole e stivali da lavoro. Un paio di guanti in pelle completano il look, con la certezza di poter affrontare senza problemi qualsiasi lavoro duro."
+						"252086724": "Il Drago",
+						"678625422": "Nessuno metterà in dubbio la vostra autorità per le strade con questo leggendario costume da drago."
 					},
 					"german": {
-						"252086724": "Raues Geschäft",
-						"678625422": "Ein stilvolles Ensemble aus einer eleganten grauen Anzughose, einer robusten und langlebigen schwarzen Lederjacke und Arbeitsstiefeln. Ein Paar Lederhandschuhe vervollständigen den Look, mit der Gewissheit, dass jedes raue Geschäft ohne Probleme erledigt werden kann."
+						"252086724": "Der Drache",
+						"678625422": "In diesem legendären Drachenkostüm wird niemand Ihre Autorität auf den Straßen in Frage stellen."
 					},
 					"spanish": {
-						"252086724": "Negocios Difíciles",
-						"678625422": "Un elegante conjunto de pantalones de vestir grises, una resistente chaqueta de cuero negro y botas de trabajo. Un par de guantes de cuero rematan el look, con la seguridad de que cualquier asunto escabroso puede resolverse sin problemas."
+						"252086724": "El Dragón",
+						"678625422": "Nadie cuestionará tu autoridad en las calles con este legendario traje de dragón."
 					},
 					"russian": {
-						"252086724": "Грубый бизнес",
-						"678625422": "Стильный ансамбль из нарядных серых брюк, прочной и долговечной черной кожаной куртки и рабочих ботинок. Пара кожаных перчаток завершает образ, давая уверенность в том, что с любым грубым делом можно справиться без проблем."
+						"252086724": "Дракон",
+						"678625422": "Никто не усомнится в вашем авторитете на улицах в этом легендарном костюме дракона."
 					}
 				}
 			}
@@ -445,24 +445,24 @@
 						"4079878924": "No one will question your authority on the streets in this legendary dragon's suit."
 					},
 					"french": {
-						"3362995256": "Les affaires difficiles",
-						"4079878924": "Un ensemble stylé composé d'un élégant pantalon gris, d'une veste en cuir noir résistante et durable et de bottes de travail. Une paire de gants en cuir complète le look, avec l'assurance que toute affaire difficile peut être traitée sans problème."
+						"3362995256": "Le Dragon",
+						"4079878924": "Personne ne remettra en question votre autorité dans les rues avec ce costume de dragon légendaire."
 					},
 					"italian": {
-						"3362995256": "Affari difficili",
-						"4079878924": "Un insieme di stile con eleganti pantaloni grigi, una giacca di pelle nera resistente e durevole e stivali da lavoro. Un paio di guanti in pelle completano il look, con la certezza di poter affrontare senza problemi qualsiasi lavoro duro."
+						"3362995256": "Il Drago",
+						"4079878924": "Nessuno metterà in dubbio la vostra autorità per le strade con questo leggendario costume da drago."
 					},
 					"german": {
-						"3362995256": "Raues Geschäft",
-						"4079878924": "Ein stilvolles Ensemble aus einer eleganten grauen Anzughose, einer robusten und langlebigen schwarzen Lederjacke und Arbeitsstiefeln. Ein Paar Lederhandschuhe vervollständigen den Look, mit der Gewissheit, dass jedes raue Geschäft ohne Probleme erledigt werden kann."
+						"3362995256": "Der Drache",
+						"4079878924": "In diesem legendären Drachenkostüm wird niemand Ihre Autorität auf den Straßen in Frage stellen."
 					},
 					"spanish": {
-						"3362995256": "Negocios Difíciles",
-						"4079878924": "Un elegante conjunto de pantalones de vestir grises, una resistente chaqueta de cuero negro y botas de trabajo. Un par de guantes de cuero rematan el look, con la seguridad de que cualquier asunto escabroso puede resolverse sin problemas."
+						"3362995256": "El Dragón",
+						"4079878924": "Nadie cuestionará tu autoridad en las calles con este legendario traje de dragón."
 					},
 					"russian": {
-						"3362995256": "Грубый бизнес",
-						"4079878924": "Стильный ансамбль из нарядных серых брюк, прочной и долговечной черной кожаной куртки и рабочих ботинок. Пара кожаных перчаток завершает образ, давая уверенность в том, что с любым грубым делом можно справиться без проблем."
+						"3362995256": "Дракон",
+						"4079878924": "Никто не усомнится в вашем авторитете на улицах в этом легендарном костюме дракона."
 					}
 				}
 			}
@@ -480,24 +480,24 @@
 						"2760943898": "The Dragon"
 					},
 					"french": {
-						"2681050670": "Un ensemble stylé composé d'un élégant pantalon gris, d'une veste en cuir noir résistante et durable et de bottes de travail. Une paire de gants en cuir complète le look, avec l'assurance que toute affaire difficile peut être traitée sans problème.",
-						"2760943898": "Les affaires difficiles"
+						"2681050670": "Personne ne remettra en question votre autorité dans les rues avec ce costume de dragon légendaire.",
+						"2760943898": "Le Dragon"
 					},
 					"italian": {
-						"2681050670": "Un insieme di stile con eleganti pantaloni grigi, una giacca di pelle nera resistente e durevole e stivali da lavoro. Un paio di guanti in pelle completano il look, con la certezza di poter affrontare senza problemi qualsiasi lavoro duro.",
-						"2760943898": "Affari difficili"
+						"2681050670": "Nessuno metterà in dubbio la vostra autorità per le strade con questo leggendario costume da drago.",
+						"2760943898": "Il Drago"
 					},
 					"german": {
-						"2681050670": "Ein stilvolles Ensemble aus einer eleganten grauen Anzughose, einer robusten und langlebigen schwarzen Lederjacke und Arbeitsstiefeln. Ein Paar Lederhandschuhe vervollständigen den Look, mit der Gewissheit, dass jedes raue Geschäft ohne Probleme erledigt werden kann.",
-						"2760943898": "Raues Geschäft"
+						"2681050670": "In diesem legendären Drachenkostüm wird niemand Ihre Autorität auf den Straßen in Frage stellen.",
+						"2760943898": "Der Drache"
 					},
 					"spanish": {
-						"2681050670": "Un elegante conjunto de pantalones de vestir grises, una resistente chaqueta de cuero negro y botas de trabajo. Un par de guantes de cuero rematan el look, con la seguridad de que cualquier asunto escabroso puede resolverse sin problemas.",
-						"2760943898": "Negocios Difíciles"
+						"2681050670": "Nadie cuestionará tu autoridad en las calles con este legendario traje de dragón.",
+						"2760943898": "El Dragón"
 					},
 					"russian": {
-						"2681050670": "Стильный ансамбль из нарядных серых брюк, прочной и долговечной черной кожаной куртки и рабочих ботинок. Пара кожаных перчаток завершает образ, давая уверенность в том, что с любым грубым делом можно справиться без проблем.",
-						"2760943898": "Грубый бизнес"
+						"2681050670": "Никто не усомнится в вашем авторитете на улицах в этом легендарном костюме дракона.",
+						"2760943898": "Дракон"
 					}
 				}
 			}
