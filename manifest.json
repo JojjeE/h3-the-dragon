@@ -535,5 +535,6 @@
 			"image": "shirtless_tattoo.jpg",
 			"contentFolders": ["2_patches/variant/shirtless_tattoo"]
 		}
-	]
+	],
+	"updateCheck": "https://github.com/JojjeE/h3-the-dragon/releases/latest/download/updates.json"
 }
