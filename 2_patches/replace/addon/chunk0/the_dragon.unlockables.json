@@ -1,0 +1,25 @@
+{
+	"TOKEN_OUTFIT_HERO_THE_DRAGON": {
+		"Id": "TOKEN_OUTFIT_HERO_THE_DRAGON",
+		"Guid": "0552e422-cb7f-42a4-8beb-d99f9aa401b3",
+		"Type": "disguise",
+		"Subtype": "casual",
+		"ImageId": "",
+		"RMTPrice": -1,
+		"GamePrice": -1,
+		"IsPurchasable": false,
+		"IsPublished": true,
+		"IsDroppable": false,
+		"Capabilities": [],
+		"Qualities": {},
+		"Properties": {
+			"Quality": 2,
+			"Rarity": "common",
+			"LoadoutSlot": "disguise",
+			"IsConsumable": false,
+			"RepositoryId": "cdd101ac-0943-414b-bc3a-f3e63c167f7d",
+			"OrderIndex": 21
+		},
+		"Rarity": "common"
+	}
+}

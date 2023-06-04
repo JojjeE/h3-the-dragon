@@ -1,0 +1,14 @@
+{
+	"cdd101ac-0943-414b-bc3a-f3e63c167f7d": {
+		"ID_": "cdd101ac-0943-414b-bc3a-f3e63c167f7d",
+		"CommonName": "CHAR_Global_Hero_The_Dragon_M",
+		"Description": "UI_TOKEN_OUTFIT_HERO_THE_DRAGON_DESC",
+		"HeroDisguiseAvailable": true,
+		"Image": "images/unlockables_override/47_Outfits_the_dragon.jpg",
+		"IsHitmanSuit": true,
+		"Name": "UI_TOKEN_OUTFIT_HERO_THE_DRAGON_NAME",
+		"Category": "",
+		"ImageTransparent": "",
+		"TokenID": "TOKEN_OUTFIT_HERO_THE_DRAGON"
+	}
+}
