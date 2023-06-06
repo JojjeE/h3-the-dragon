@@ -6,4 +6,4 @@ Rolling eyes fall... Install it for Peacock or replace a casual suit of your cho
 
 ---
 
-`Jojje.TheDragon` v1.0.1, by Jojje. This README was automatically generated from the mod's manifest.
+`Jojje.TheDragon` v1.0.2, by Jojje. This README was automatically generated from the mod's manifest.

@@ -5,7 +5,7 @@
 	"description": "Rolling eyes fall... Install it for Peacock or replace a casual suit of your choice.",
 	"authors": ["Jojje"],
 	"frameworkVersion": "2.27.0",
-	"version": "1.0.1",
+	"version": "1.0.2",
 	"contentFolders": ["1_content/base"],
 	"options": [
 		{
