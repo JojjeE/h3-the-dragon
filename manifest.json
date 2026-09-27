@@ -1,540 +1,211 @@
 {
-	"$schema": "https://raw.githubusercontent.com/atampy25/simple-mod-framework/main/Mod%20Manager/src/lib/manifest-schema.json",
 	"id": "Jojje.TheDragon",
 	"name": "The Dragon",
 	"description": "Rolling eyes fall... Install it for Peacock or replace a casual suit of your choice.",
 	"authors": ["Jojje"],
-	"frameworkVersion": "2.27.0",
 	"version": "1.0.2",
-	"contentFolders": ["1_content/base"],
+	"frameworkVersion": "3.0.0-beta.5",
+	"url": "https://github.com/JojjeE/h3-the-dragon",
+	"conditions": { "supportedGames": ["h3"] },
+	"data": { "contentFolders": ["1_content/base"] },
 	"options": [
 		{
-			"group": "Replace",
-			"name": "Peacock Addon",
-			"type": "select",
-			"tooltip": "Install the suit to your game as an addon without replacing existing suits. This will only work if you're playing with Peacock.",
-			"enabledByDefault": true,
-			"contentFolders": ["2_patches/replace/addon"],
-			"blobsFolders": ["blobs/addon"],
-			"localisedLines": {
-				"0095697E31C7BE75": "UI_TOKEN_OUTFIT_HERO_THE_DRAGON_DESC",
-				"0047532679312BD4": "UI_TOKEN_OUTFIT_HERO_THE_DRAGON_NAME"
-			},
-			"localisation": {
-				"english": {
-					"UI_TOKEN_OUTFIT_HERO_THE_DRAGON_DESC": "No one will question your authority on the streets in this legendary dragon's suit.",
-					"UI_TOKEN_OUTFIT_HERO_THE_DRAGON_NAME": "The Dragon"
+			"id": "dragon-install",
+			"type": "selection",
+			"name": "Replace",
+			"defaultValue": "dragon-install-peacock",
+			"options": [
+				{
+					"id": "dragon-install-peacock",
+					"name": "Peacock Addon",
+					"description": "Install the suit to your game as an addon without replacing existing suits. This will only work if you're playing with Peacock.",
+					"data": {
+						"contentFolders": ["2_patches/replace/addon"],
+						"blobFolders": ["blobs/addon"],
+						"localisation": {
+							"UI_TOKEN_OUTFIT_HERO_THE_DRAGON_DESC": {
+								"english": "No one will question your authority on the streets in this legendary dragon's suit.",
+								"french": "Personne ne remettra en question votre autorité dans les rues avec ce costume de dragon légendaire.",
+								"italian": "Nessuno metterà in dubbio la vostra autorità per le strade con questo leggendario costume da drago.",
+								"german": "In diesem legendären Drachenkostüm wird niemand Ihre Autorität auf den Straßen in Frage stellen.",
+								"spanish": "Nadie cuestionará tu autoridad en las calles con este legendario traje de dragón.",
+								"russian": "Никто не усомнится в вашем авторитете на улицах в этом легендарном костюме дракона."
+							},
+							"UI_TOKEN_OUTFIT_HERO_THE_DRAGON_NAME": {
+								"english": "The Dragon",
+								"french": "Le Dragon",
+								"italian": "Il Drago",
+								"german": "Der Drache",
+								"spanish": "El Dragón",
+								"russian": "Дракон"
+							}
+						},
+						"localisedLines": {
+							"0095697E31C7BE75": "UI_TOKEN_OUTFIT_HERO_THE_DRAGON_DESC",
+							"0047532679312BD4": "UI_TOKEN_OUTFIT_HERO_THE_DRAGON_NAME"
+						}
+					}
 				},
-				"french": {
-					"UI_TOKEN_OUTFIT_HERO_THE_DRAGON_DESC": "Personne ne remettra en question votre autorité dans les rues avec ce costume de dragon légendaire.",
-					"UI_TOKEN_OUTFIT_HERO_THE_DRAGON_NAME": "Le Dragon"
+				{
+					"id": "dragon-install-casual",
+					"name": "Casual Suit with Gloves",
+					"data": {
+						"contentFolders": ["2_patches/replace/bangkok"],
+						"blobFolders": ["blobs/bangkok"]
+					}
 				},
-				"italian": {
-					"UI_TOKEN_OUTFIT_HERO_THE_DRAGON_DESC": "Nessuno metterà in dubbio la vostra autorità per le strade con questo leggendario costume da drago.",
-					"UI_TOKEN_OUTFIT_HERO_THE_DRAGON_NAME": "Il Drago"
+				{
+					"id": "dragon-install-italian",
+					"name": "Italian Suit with Gloves",
+					"data": {
+						"contentFolders": ["2_patches/replace/sapienza"],
+						"blobFolders": ["blobs/sapienza"]
+					}
 				},
-				"german": {
-					"UI_TOKEN_OUTFIT_HERO_THE_DRAGON_DESC": "In diesem legendären Drachenkostüm wird niemand Ihre Autorität auf den Straßen in Frage stellen.",
-					"UI_TOKEN_OUTFIT_HERO_THE_DRAGON_NAME": "Der Drache"
+				{
+					"id": "dragon-install-floridafit",
+					"name": "Florida Fit with Gloves",
+					"data": {
+						"contentFolders": ["2_patches/replace/miami"],
+						"blobFolders": ["blobs/miami"]
+					}
 				},
-				"spanish": {
-					"UI_TOKEN_OUTFIT_HERO_THE_DRAGON_DESC": "Nadie cuestionará tu autoridad en las calles con este legendario traje de dragón.",
-					"UI_TOKEN_OUTFIT_HERO_THE_DRAGON_NAME": "El Dragón"
+				{
+					"id": "dragon-install-casualtourist",
+					"name": "Casual Tourist with Gloves",
+					"data": {
+						"contentFolders": ["2_patches/replace/sanfortuna"],
+						"blobFolders": ["blobs/sanfortuna"]
+					}
 				},
-				"russian": {
-					"UI_TOKEN_OUTFIT_HERO_THE_DRAGON_DESC": "Никто не усомнится в вашем авторитете на улицах в этом легендарном костюме дракона.",
-					"UI_TOKEN_OUTFIT_HERO_THE_DRAGON_NAME": "Дракон"
-				}
-			}
-		},
-		{
-			"group": "Replace",
-			"name": "Casual Suit with Gloves",
-			"type": "select",
-			"contentFolders": ["2_patches/replace/bangkok"],
-			"blobsFolders": ["blobs/bangkok"],
-			"localisationOverrides": {
-				"00985A1100E5EDDC": {
-					"english": {
-						"2741280242": "No one will question your authority on the streets in this legendary dragon's suit.",
-						"4086875141": "The Dragon"
-					},
-					"french": {
-						"2741280242": "Personne ne remettra en question votre autorité dans les rues avec ce costume de dragon légendaire.",
-						"4086875141": "Le Dragon"
-					},
-					"italian": {
-						"2741280242": "Nessuno metterà in dubbio la vostra autorità per le strade con questo leggendario costume da drago.",
-						"4086875141": "Il Drago"
-					},
-					"german": {
-						"2741280242": "In diesem legendären Drachenkostüm wird niemand Ihre Autorität auf den Straßen in Frage stellen.",
-						"4086875141": "Der Drache"
-					},
-					"spanish": {
-						"2741280242": "Nadie cuestionará tu autoridad en las calles con este legendario traje de dragón.",
-						"4086875141": "El Dragón"
-					},
-					"russian": {
-						"2741280242": "Никто не усомнится в вашем авторитете на улицах в этом легендарном костюме дракона.",
-						"4086875141": "Дракон"
+				{
+					"id": "dragon-install-summersuave",
+					"name": "Summer Suave Suit",
+					"data": {
+						"contentFolders": [
+							"2_patches/replace/summersuave"
+						],
+						"blobFolders": ["blobs/summersuave"]
+					}
+				},
+				{
+					"id": "dragon-install-summersightseeing",
+					"name": "Summer Sightseeing Suit",
+					"data": {
+						"contentFolders": [
+							"2_patches/replace/summersightseeing"
+						],
+						"blobFolders": ["blobs/summersightseeing"]
+					}
+				},
+				{
+					"id": "dragon-install-undercover",
+					"name": "Casual Undercover",
+					"data": {
+						"contentFolders": [
+							"2_patches/replace/casualundercover"
+						],
+						"blobFolders": ["blobs/casualundercover"]
+					}
+				},
+				{
+					"id": "dragon-install-midnightblack",
+					"name": "Midnight Black Suit",
+					"data": {
+						"contentFolders": [
+							"2_patches/replace/midnightblack"
+						],
+						"blobFolders": ["blobs/midnightblack"]
+					}
+				},
+				{
+					"id": "dragon-install-summersuit",
+					"name": "Summer Suit with Gloves",
+					"data": {
+						"contentFolders": ["2_patches/replace/marrakesh"],
+						"blobFolders": ["blobs/marrakesh"]
+					}
+				},
+				{
+					"id": "dragon-install-tropicalsuit",
+					"name": "Tropical Suit",
+					"data": {
+						"contentFolders": [
+							"2_patches/replace/tropicalsuit"
+						],
+						"blobFolders": ["blobs/tropicalsuit"]
+					}
+				},
+				{
+					"id": "dragon-install-smartcasual",
+					"name": "Smart Casual Suit",
+					"data": {
+						"contentFolders": [
+							"2_patches/replace/smartcasual"
+						],
+						"blobFolders": ["blobs/smartcasual"]
+					}
+				},
+				{
+					"id": "dragon-install-raver",
+					"name": "The Raver",
+					"data": {
+						"contentFolders": ["2_patches/replace/raver"],
+						"blobFolders": ["blobs/raver"]
+					}
+				},
+				{
+					"id": "dragon-install-ducky",
+					"name": "Lucky Ducky",
+					"data": {
+						"contentFolders": ["2_patches/replace/luckyducky"],
+						"blobFolders": ["blobs/luckyducky"]
 					}
 				}
-			}
+			]
 		},
 		{
-			"group": "Replace",
-			"name": "Italian Suit with Gloves",
-			"type": "select",
-			"contentFolders": ["2_patches/replace/sapienza"],
-			"blobsFolders": ["blobs/sapienza"],
-			"localisationOverrides": {
-				"00985A1100E5EDDC": {
-					"english": {
-						"3346035357": "No one will question your authority on the streets in this legendary dragon's suit.",
-						"3648979387": "The Dragon"
-					},
-					"french": {
-						"3346035357": "Personne ne remettra en question votre autorité dans les rues avec ce costume de dragon légendaire.",
-						"3648979387": "Le Dragon"
-					},
-					"italian": {
-						"3346035357": "Nessuno metterà in dubbio la vostra autorità per le strade con questo leggendario costume da drago.",
-						"3648979387": "Il Drago"
-					},
-					"german": {
-						"3346035357": "In diesem legendären Drachenkostüm wird niemand Ihre Autorität auf den Straßen in Frage stellen.",
-						"3648979387": "Der Drache"
-					},
-					"spanish": {
-						"3346035357": "Nadie cuestionará tu autoridad en las calles con este legendario traje de dragón.",
-						"3648979387": "El Dragón"
-					},
-					"russian": {
-						"3346035357": "Никто не усомнится в вашем авторитете на улицах в этом легендарном костюме дракона.",
-						"3648979387": "Дракон"
+			"id": "dragon-variant",
+			"type": "selection",
+			"name": "Variant",
+			"defaultValue": "dragon-variant-jacket",
+			"options": [
+				{
+					"id": "dragon-variant-jacket",
+					"name": "Jacket (Default)",
+					"description": "With jacket.",
+					"image": "jacket.jpg"
+				},
+				{
+					"id": "dragon-variant-nojacket",
+					"name": "No jacket",
+					"description": "Take off the jacket.",
+					"image": "nojacket.jpg",
+					"data": {
+						"contentFolders": ["2_patches/variant/nojacket"]
+					}
+				},
+				{
+					"id": "dragon-variant-shirtless",
+					"name": "Shirtless",
+					"description": "Bare your chest. Like a dragon!",
+					"image": "shirtless.jpg",
+					"data": {
+						"contentFolders": ["2_patches/variant/shirtless"]
+					}
+				},
+				{
+					"id": "dragon-variant-shirtless-tattoo",
+					"name": "Shirtless with Tattoo",
+					"description": "Complete your cosplay with a back tattoo of Kiryu's dragon.",
+					"image": "shirtless_tattoo.jpg",
+					"data": {
+						"contentFolders": [
+							"2_patches/variant/shirtless_tattoo"
+						]
 					}
 				}
-			}
-		},
-		{
-			"group": "Replace",
-			"name": "Florida Fit with Gloves",
-			"type": "select",
-			"contentFolders": ["2_patches/replace/miami"],
-			"blobsFolders": ["blobs/miami"],
-			"localisationOverrides": {
-				"009F430D046716BE": {
-					"english": {
-						"1774659088": "The Dragon",
-						"3175901226": "No one will question your authority on the streets in this legendary dragon's suit."
-					},
-					"french": {
-						"1774659088": "Le Dragon",
-						"3175901226": "Personne ne remettra en question votre autorité dans les rues avec ce costume de dragon légendaire."
-					},
-					"italian": {
-						"1774659088": "Il Drago",
-						"3175901226": "Nessuno metterà in dubbio la vostra autorità per le strade con questo leggendario costume da drago."
-					},
-					"german": {
-						"1774659088": "Der Drache",
-						"3175901226": "In diesem legendären Drachenkostüm wird niemand Ihre Autorität auf den Straßen in Frage stellen."
-					},
-					"spanish": {
-						"1774659088": "El Dragón",
-						"3175901226": "Nadie cuestionará tu autoridad en las calles con este legendario traje de dragón."
-					},
-					"russian": {
-						"1774659088": "Дракон",
-						"3175901226": "Никто не усомнится в вашем авторитете на улицах в этом легендарном костюме дракона."
-					}
-				}
-			}
-		},
-		{
-			"group": "Replace",
-			"name": "Casual Tourist with Gloves",
-			"type": "select",
-			"contentFolders": ["2_patches/replace/sanfortuna"],
-			"blobsFolders": ["blobs/sanfortuna"],
-			"localisationOverrides": {
-				"009F430D046716BE": {
-					"english": {
-						"2978719530": "The Dragon",
-						"3533044117": "No one will question your authority on the streets in this legendary dragon's suit."
-					},
-					"french": {
-						"2978719530": "Le Dragon",
-						"3533044117": "Personne ne remettra en question votre autorité dans les rues avec ce costume de dragon légendaire."
-					},
-					"italian": {
-						"2978719530": "Il Drago",
-						"3533044117": "Nessuno metterà in dubbio la vostra autorità per le strade con questo leggendario costume da drago."
-					},
-					"german": {
-						"2978719530": "Der Drache",
-						"3533044117": "In diesem legendären Drachenkostüm wird niemand Ihre Autorität auf den Straßen in Frage stellen."
-					},
-					"spanish": {
-						"2978719530": "El Dragón",
-						"3533044117": "Nadie cuestionará tu autoridad en las calles con este legendario traje de dragón."
-					},
-					"russian": {
-						"2978719530": "Дракон",
-						"3533044117": "Никто не усомнится в вашем авторитете на улицах в этом легендарном костюме дракона."
-					}
-				}
-			}
-		},
-		{
-			"group": "Replace",
-			"name": "Summer Suave Suit",
-			"type": "select",
-			"contentFolders": ["2_patches/replace/summersuave"],
-			"blobsFolders": ["blobs/summersuave"],
-			"localisationOverrides": {
-				"009F430D046716BE": {
-					"english": {
-						"134957393": "The Dragon",
-						"2101382595": "No one will question your authority on the streets in this legendary dragon's suit."
-					},
-					"french": {
-						"134957393": "Le Dragon",
-						"2101382595": "Personne ne remettra en question votre autorité dans les rues avec ce costume de dragon légendaire."
-					},
-					"italian": {
-						"134957393": "Il Drago",
-						"2101382595": "Nessuno metterà in dubbio la vostra autorità per le strade con questo leggendario costume da drago."
-					},
-					"german": {
-						"134957393": "Der Drache",
-						"2101382595": "In diesem legendären Drachenkostüm wird niemand Ihre Autorität auf den Straßen in Frage stellen."
-					},
-					"spanish": {
-						"134957393": "El Dragón",
-						"2101382595": "Nadie cuestionará tu autoridad en las calles con este legendario traje de dragón."
-					},
-					"russian": {
-						"134957393": "Дракон",
-						"2101382595": "Никто не усомнится в вашем авторитете на улицах в этом легендарном костюме дракона."
-					}
-				}
-			}
-		},
-		{
-			"group": "Replace",
-			"name": "Summer Sightseeing Suit",
-			"type": "select",
-			"contentFolders": ["2_patches/replace/summersightseeing"],
-			"blobsFolders": ["blobs/summersightseeing"],
-			"localisationOverrides": {
-				"004B8C5124A49543": {
-					"english": {
-						"2627471231": "No one will question your authority on the streets in this legendary dragon's suit.",
-						"2814457931": "The Dragon"
-					},
-					"french": {
-						"2627471231": "Personne ne remettra en question votre autorité dans les rues avec ce costume de dragon légendaire.",
-						"2814457931": "Le Dragon"
-					},
-					"italian": {
-						"2627471231": "Nessuno metterà in dubbio la vostra autorità per le strade con questo leggendario costume da drago.",
-						"2814457931": "Il Drago"
-					},
-					"german": {
-						"2627471231": "In diesem legendären Drachenkostüm wird niemand Ihre Autorität auf den Straßen in Frage stellen.",
-						"2814457931": "Der Drache"
-					},
-					"spanish": {
-						"2627471231": "Nadie cuestionará tu autoridad en las calles con este legendario traje de dragón.",
-						"2814457931": "El Dragón"
-					},
-					"russian": {
-						"2627471231": "Никто не усомнится в вашем авторитете на улицах в этом легендарном костюме дракона.",
-						"2814457931": "Дракон"
-					}
-				}
-			}
-		},
-		{
-			"group": "Replace",
-			"name": "Casual Undercover",
-			"type": "select",
-			"contentFolders": ["2_patches/replace/casualundercover"],
-			"blobsFolders": ["blobs/casualundercover"],
-			"localisationOverrides": {
-				"009F430D046716BE": {
-					"english": {
-						"2052724919": "The Dragon",
-						"3635577953": "No one will question your authority on the streets in this legendary dragon's suit."
-					},
-					"french": {
-						"2052724919": "Le Dragon",
-						"3635577953": "Personne ne remettra en question votre autorité dans les rues avec ce costume de dragon légendaire."
-					},
-					"italian": {
-						"2052724919": "Il Drago",
-						"3635577953": "Nessuno metterà in dubbio la vostra autorità per le strade con questo leggendario costume da drago."
-					},
-					"german": {
-						"2052724919": "Der Drache",
-						"3635577953": "In diesem legendären Drachenkostüm wird niemand Ihre Autorität auf den Straßen in Frage stellen."
-					},
-					"spanish": {
-						"2052724919": "El Dragón",
-						"3635577953": "Nadie cuestionará tu autoridad en las calles con este legendario traje de dragón."
-					},
-					"russian": {
-						"2052724919": "Дракон",
-						"3635577953": "Никто не усомнится в вашем авторитете на улицах в этом легендарном костюме дракона."
-					}
-				}
-			}
-		},
-		{
-			"group": "Replace",
-			"name": "Midnight Black Suit",
-			"type": "select",
-			"contentFolders": ["2_patches/replace/midnightblack"],
-			"blobsFolders": ["blobs/midnightblack"],
-			"localisationOverrides": {
-				"009F430D046716BE": {
-					"english": {
-						"972885031": "No one will question your authority on the streets in this legendary dragon's suit.",
-						"2762453674": "The Dragon"
-					},
-					"french": {
-						"972885031": "Personne ne remettra en question votre autorité dans les rues avec ce costume de dragon légendaire.",
-						"2762453674": "Le Dragon"
-					},
-					"italian": {
-						"972885031": "Nessuno metterà in dubbio la vostra autorità per le strade con questo leggendario costume da drago.",
-						"2762453674": "Il Drago"
-					},
-					"german": {
-						"972885031": "In diesem legendären Drachenkostüm wird niemand Ihre Autorität auf den Straßen in Frage stellen.",
-						"2762453674": "Der Drache"
-					},
-					"spanish": {
-						"972885031": "Nadie cuestionará tu autoridad en las calles con este legendario traje de dragón.",
-						"2762453674": "El Dragón"
-					},
-					"russian": {
-						"972885031": "Никто не усомнится в вашем авторитете на улицах в этом легендарном костюме дракона.",
-						"2762453674": "Дракон"
-					}
-				}
-			}
-		},
-		{
-			"group": "Replace",
-			"name": "Summer Suit with Gloves",
-			"type": "select",
-			"contentFolders": ["2_patches/replace/marrakesh"],
-			"blobsFolders": ["blobs/marrakesh"],
-			"localisationOverrides": {
-				"00985A1100E5EDDC": {
-					"english": {
-						"1490534793": "The Dragon",
-						"4241939803": "No one will question your authority on the streets in this legendary dragon's suit."
-					},
-					"french": {
-						"1490534793": "Le Dragon",
-						"4241939803": "Personne ne remettra en question votre autorité dans les rues avec ce costume de dragon légendaire."
-					},
-					"italian": {
-						"1490534793": "Il Drago",
-						"4241939803": "Nessuno metterà in dubbio la vostra autorità per le strade con questo leggendario costume da drago."
-					},
-					"german": {
-						"1490534793": "Der Drache",
-						"4241939803": "In diesem legendären Drachenkostüm wird niemand Ihre Autorität auf den Straßen in Frage stellen."
-					},
-					"spanish": {
-						"1490534793": "El Dragón",
-						"4241939803": "Nadie cuestionará tu autoridad en las calles con este legendario traje de dragón."
-					},
-					"russian": {
-						"1490534793": "Дракон",
-						"4241939803": "Никто не усомнится в вашем авторитете на улицах в этом легендарном костюме дракона."
-					}
-				}
-			}
-		},
-		{
-			"group": "Replace",
-			"name": "Tropical Suit",
-			"type": "select",
-			"contentFolders": ["2_patches/replace/tropicalsuit"],
-			"blobsFolders": ["blobs/tropicalsuit"],
-			"localisationOverrides": {
-				"009F430D046716BE": {
-					"english": {
-						"2053833950": "No one will question your authority on the streets in this legendary dragon's suit.",
-						"2347383834": "The Dragon"
-					},
-					"french": {
-						"2053833950": "Personne ne remettra en question votre autorité dans les rues avec ce costume de dragon légendaire.",
-						"2347383834": "Le Dragon"
-					},
-					"italian": {
-						"2053833950": "Nessuno metterà in dubbio la vostra autorità per le strade con questo leggendario costume da drago.",
-						"2347383834": "Il Drago"
-					},
-					"german": {
-						"2053833950": "In diesem legendären Drachenkostüm wird niemand Ihre Autorität auf den Straßen in Frage stellen.",
-						"2347383834": "Der Drache"
-					},
-					"spanish": {
-						"2053833950": "Nadie cuestionará tu autoridad en las calles con este legendario traje de dragón.",
-						"2347383834": "El Dragón"
-					},
-					"russian": {
-						"2053833950": "Никто не усомнится в вашем авторитете на улицах в этом легендарном костюме дракона.",
-						"2347383834": "Дракон"
-					}
-				}
-			}
-		},
-		{
-			"group": "Replace",
-			"name": "Smart Casual Suit",
-			"type": "select",
-			"contentFolders": ["2_patches/replace/smartcasual"],
-			"blobsFolders": ["blobs/smartcasual"],
-			"localisationOverrides": {
-				"009F430D046716BE": {
-					"english": {
-						"252086724": "The Dragon",
-						"678625422": "No one will question your authority on the streets in this legendary dragon's suit."
-					},
-					"french": {
-						"252086724": "Le Dragon",
-						"678625422": "Personne ne remettra en question votre autorité dans les rues avec ce costume de dragon légendaire."
-					},
-					"italian": {
-						"252086724": "Il Drago",
-						"678625422": "Nessuno metterà in dubbio la vostra autorità per le strade con questo leggendario costume da drago."
-					},
-					"german": {
-						"252086724": "Der Drache",
-						"678625422": "In diesem legendären Drachenkostüm wird niemand Ihre Autorität auf den Straßen in Frage stellen."
-					},
-					"spanish": {
-						"252086724": "El Dragón",
-						"678625422": "Nadie cuestionará tu autoridad en las calles con este legendario traje de dragón."
-					},
-					"russian": {
-						"252086724": "Дракон",
-						"678625422": "Никто не усомнится в вашем авторитете на улицах в этом легендарном костюме дракона."
-					}
-				}
-			}
-		},
-		{
-			"group": "Replace",
-			"name": "The Raver",
-			"type": "select",
-			"contentFolders": ["2_patches/replace/raver"],
-			"blobsFolders": ["blobs/raver"],
-			"localisationOverrides": {
-				"004B8C5124A49543": {
-					"english": {
-						"3362995256": "The Dragon",
-						"4079878924": "No one will question your authority on the streets in this legendary dragon's suit."
-					},
-					"french": {
-						"3362995256": "Le Dragon",
-						"4079878924": "Personne ne remettra en question votre autorité dans les rues avec ce costume de dragon légendaire."
-					},
-					"italian": {
-						"3362995256": "Il Drago",
-						"4079878924": "Nessuno metterà in dubbio la vostra autorità per le strade con questo leggendario costume da drago."
-					},
-					"german": {
-						"3362995256": "Der Drache",
-						"4079878924": "In diesem legendären Drachenkostüm wird niemand Ihre Autorität auf den Straßen in Frage stellen."
-					},
-					"spanish": {
-						"3362995256": "El Dragón",
-						"4079878924": "Nadie cuestionará tu autoridad en las calles con este legendario traje de dragón."
-					},
-					"russian": {
-						"3362995256": "Дракон",
-						"4079878924": "Никто не усомнится в вашем авторитете на улицах в этом легендарном костюме дракона."
-					}
-				}
-			}
-		},
-		{
-			"group": "Replace",
-			"name": "Lucky Ducky",
-			"type": "select",
-			"contentFolders": ["2_patches/replace/luckyducky"],
-			"blobsFolders": ["blobs/luckyducky"],
-			"localisationOverrides": {
-				"004B8C5124A49543": {
-					"english": {
-						"2681050670": "No one will question your authority on the streets in this legendary dragon's suit.",
-						"2760943898": "The Dragon"
-					},
-					"french": {
-						"2681050670": "Personne ne remettra en question votre autorité dans les rues avec ce costume de dragon légendaire.",
-						"2760943898": "Le Dragon"
-					},
-					"italian": {
-						"2681050670": "Nessuno metterà in dubbio la vostra autorità per le strade con questo leggendario costume da drago.",
-						"2760943898": "Il Drago"
-					},
-					"german": {
-						"2681050670": "In diesem legendären Drachenkostüm wird niemand Ihre Autorität auf den Straßen in Frage stellen.",
-						"2760943898": "Der Drache"
-					},
-					"spanish": {
-						"2681050670": "Nadie cuestionará tu autoridad en las calles con este legendario traje de dragón.",
-						"2760943898": "El Dragón"
-					},
-					"russian": {
-						"2681050670": "Никто не усомнится в вашем авторитете на улицах в этом легендарном костюме дракона.",
-						"2760943898": "Дракон"
-					}
-				}
-			}
-		},
-		{
-			"group": "Variant",
-			"name": "Jacket (Default)",
-			"type": "select",
-			"tooltip": "With jacket.",
-			"image": "jacket.jpg",
-			"enabledByDefault": true
-		},
-		{
-			"group": "Variant",
-			"name": "No jacket",
-			"type": "select",
-			"tooltip": "Take off the jacket.",
-			"image": "nojacket.jpg",
-			"dependencies": ["004A5A566A3E90E1"],
-			"contentFolders": ["2_patches/variant/nojacket"]
-		},
-		{
-			"group": "Variant",
-			"name": "Shirtless",
-			"type": "select",
-			"tooltip": "Bare your chest. Like a dragon!",
-			"image": "shirtless.jpg",
-			"contentFolders": ["2_patches/variant/shirtless"]
-		},
-		{
-			"group": "Variant",
-			"name": "Shirtless with Tattoo",
-			"type": "select",
-			"tooltip": "Complete your cosplay with a back tattoo of Kiryu's dragon.",
-			"image": "shirtless_tattoo.jpg",
-			"contentFolders": ["2_patches/variant/shirtless_tattoo"]
+			]
 		}
-	],
-	"updateCheck": "https://github.com/JojjeE/h3-the-dragon/releases/latest/download/updates.json"
+	]
 }

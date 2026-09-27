@@ -1,0 +1,21 @@
+{
+	"id": "[assembly:/localization/hitman6/conversations/ui/pro/online/repository/outfits_hero.sweetmenutext].pc_localized-textlist",
+	"lines": {
+		"46CBFCE2-9556-4740-9DAA-3670301D23EA_SAPIENZA_HERO_SAPIENZASUITNOGLASSESANDGLOVES_M_HPA2795_DESCRIPTION_": {
+			"english": "No one will question your authority on the streets in this legendary dragon's suit.",
+			"french": "Personne ne remettra en question votre autorité dans les rues avec ce costume de dragon légendaire.",
+			"german": "In diesem legendären Drachenkostüm wird niemand Ihre Autorität auf den Straßen in Frage stellen.",
+			"italian": "Nessuno metterà in dubbio la vostra autorità per le strade con questo leggendario costume da drago.",
+			"russian": "Никто не усомнится в вашем авторитете на улицах в этом легендарном костюме дракона.",
+			"spanish": "Nadie cuestionará tu autoridad en las calles con este legendario traje de dragón."
+		},
+		"46CBFCE2-9556-4740-9DAA-3670301D23EA_SAPIENZA_HERO_SAPIENZASUITNOGLASSESANDGLOVES_M_HPA2795_NAME_": {
+			"english": "The Dragon",
+			"french": "Le Dragon",
+			"german": "Der Drache",
+			"italian": "Il Drago",
+			"russian": "Дракон",
+			"spanish": "El Dragón"
+		}
+	}
+}
