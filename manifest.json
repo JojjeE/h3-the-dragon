@@ -47,7 +47,7 @@
 					}
 				},
 				{
-					"id": "dragon-install-casual",
+					"id": "dragon-install-bangkok",
 					"name": "Casual Suit with Gloves",
 					"data": {
 						"contentFolders": ["2_patches/replace/bangkok"],
@@ -55,7 +55,7 @@
 					}
 				},
 				{
-					"id": "dragon-install-italian",
+					"id": "dragon-install-sapienza",
 					"name": "Italian Suit with Gloves",
 					"data": {
 						"contentFolders": ["2_patches/replace/sapienza"],
@@ -63,7 +63,7 @@
 					}
 				},
 				{
-					"id": "dragon-install-floridafit",
+					"id": "dragon-install-miami",
 					"name": "Florida Fit with Gloves",
 					"data": {
 						"contentFolders": ["2_patches/replace/miami"],
@@ -71,7 +71,7 @@
 					}
 				},
 				{
-					"id": "dragon-install-casualtourist",
+					"id": "dragon-install-sanfortuna",
 					"name": "Casual Tourist with Gloves",
 					"data": {
 						"contentFolders": ["2_patches/replace/sanfortuna"],
@@ -99,7 +99,7 @@
 					}
 				},
 				{
-					"id": "dragon-install-undercover",
+					"id": "dragon-install-casualundercover",
 					"name": "Casual Undercover",
 					"data": {
 						"contentFolders": [
@@ -119,7 +119,7 @@
 					}
 				},
 				{
-					"id": "dragon-install-summersuit",
+					"id": "dragon-install-marrakesh",
 					"name": "Summer Suit with Gloves",
 					"data": {
 						"contentFolders": ["2_patches/replace/marrakesh"],
@@ -155,7 +155,7 @@
 					}
 				},
 				{
-					"id": "dragon-install-ducky",
+					"id": "dragon-install-luckyducky",
 					"name": "Lucky Ducky",
 					"data": {
 						"contentFolders": ["2_patches/replace/luckyducky"],
